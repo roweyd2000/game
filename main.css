@@ -1,0 +1,83 @@
+#ply {
+    position: absolute;
+    top: 570px;
+    left: 700px;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    border: none;
+    color:black;
+    background-color: white;
+  }
+
+
+  #res {
+    position: absolute;
+    top: 570px;
+    left: 800px;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    border: none;
+    color:black;
+    background-color: white;
+  }
+
+
+
+  #guess1 { position: absolute;
+    top: 500px;
+    left: 600px;
+    height: 50px;
+    width: 350px; ; border-radius: 10px;
+}
+
+#val {
+    position: absolute;
+    top: 500px;
+    left: 970px;
+    height: 50px;
+    width: 75px;
+    border-radius: 50%;
+    border: none;
+    color:black;
+    background-color: white;
+
+}
+
+#his {
+font-family: fantasy;
+color: black;
+}
+body{
+    background-color: rgb(123, 39, 39);
+    
+}
+
+#win{
+    font-family: fantasy;
+color: black;
+    font-size :100px;
+   
+}
+
+#win2{
+    margin-bottom: 200px;
+}
+
+#win2{
+    margin-bottom: 100px;
+}
+
+.pi{
+
+    color: black;
+    font-size :50px;
+
+}
+
+#hintp{
+    font-family: fantasy;
+color: black;
+}
+
